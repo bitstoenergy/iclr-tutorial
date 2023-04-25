@@ -12,6 +12,7 @@
 - Practical tutorial for the **11th International Conference on Learning Representations (ICLR 2023)**
 - Part of the [**ICLR 2023 Workshop: Tackling Climate Change with Machine Learning**](https://www.climatechange.ai/events/iclr2023)
 - Hosted by [**Climate Change AI**](https://www.climatechange.ai/)
+- **Execute the tutorial via Google Colab** by using [this link](https://colab.research.google.com/github/bitstoenergy/iclr-tutorial/blob/main/SmartMeterDataAnalytics_Tutorial.ipynb)!
 
 ### **Key Learning Objectives**
 In this tutorial, we provide a practical guide to current trends in smart meter data analytics. In particular, we focus on feature engineering and machine learning scenarios for energy data. During this tutorial:
