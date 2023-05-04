@@ -26,6 +26,18 @@ In addition, some concepts offer the possibility of being applied to other time 
 
 **Note:** We would also like to point out that some utilities allow their customers access to their own smart meter data either through customer portals or upon request. If you have an active smart meter at home, you can use this guide as a starting point for analyzing your own energy usage.
 
+### **Citation**
+If you want to use this tutorial, please cite us in you work: 
+```
+@inproceedings{brudermueller2023smart,
+  title={Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector},
+  author={Brudermueller, Tobias and Kreft, Markus},
+  booktitle={ICLR 2023 Workshop on Tackling Climate Change with Machine Learning},
+  url={https://www.climatechange.ai/papers/iclr2023/3},
+  year={2023}
+}
+```
+
 ### **Abstract:** 
 To cope with climate change, the energy system is undergoing a massive transformation. Due to the electrification of all sectors, the power grid is facing high additional demand. As a result, the digitization of the grid is increasingly gaining attention. The smart grid relies heavily on the increasing deployment of smart meters around the world. The corresponding smart meter data is typically a time series of power or energy measurements with a resolution between 1 s and 60 min. This data provides valuable insights and opportunities for monitoring and controlling activities on the power grid. 
 
